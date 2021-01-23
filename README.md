@@ -9,6 +9,6 @@ The goal of the project has been to program a simple opearting system (Micrium Î
 - Change the LED *color* with a certain queue through the **switches**
 - Vary the *intensity* of the LED playing with the **potentiometer**
 
-<img src="images/OSES_video.gif" alt="alt text" width="420" height="600"> 
+<img src="images/OSES_video.gif" alt="alt text" width="390" height="600"> 
 
 Here I publish the assignment made by my professor Massimo Violante, the folder with the programming solution and the Assignment Report.
