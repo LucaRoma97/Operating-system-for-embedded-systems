@@ -11,4 +11,4 @@ The goal of the project has been to program a simple opearting system (Micrium Î
 
 <img src="images/OSES_video.gif" alt="alt text" width="390" height="600"> 
 
-Here I publish the assignment made by my professor Massimo Violante, the folder with the programming solution and the Assignment Report.
+Here I have shared the assignment made by my professor Massimo Violante, the folder with the programming solution and the Assignment Report.
