@@ -9,6 +9,6 @@ The goal of the project has been to program a simple opearting system (Micrium Î
 - Change the LED color with a certain queue through the buttons
 - Vary the intensity of the LED playing with the potentiometer
 
-<img src="images/OSES_video.gif" alt="alt text" width="400" height="400"> 
+<img src="images/OSES_video.gif" alt="alt text" width="400" height="600"> 
 
 Here I publish the assignment made by my professor Massimo Violante, the folder with the programming solution and the Assignment Report.
